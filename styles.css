@@ -1,0 +1,30 @@
+body{
+    height: 100vh;
+    background: rgb(54,1,62);
+    background: linear-gradient(360deg, rgb(25, 1, 29) 0%, rgb(74, 1, 87) 37%, rgba(218,24,251,1) 100%);
+    background-repeat: no-repeat;
+}
+
+#card{
+    width: 300px;
+    height: 420px;
+    top: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background: rgb(54,1,62);
+    background: linear-gradient(180deg, rgb(34, 3, 39) 0%, rgb(146, 12, 170) 69%, rgba(218,24,251,1) 100%);
+    color: white;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: 10px 10px 5px rgba(54,1,62,1);
+}
+
+p{
+    margin-top: 40px;
+    font-family: 'Indie Flower', cursive;
+    font-size: 23px;
+}
